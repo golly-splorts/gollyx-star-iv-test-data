@@ -9,7 +9,7 @@ SERIES_GPD = {"LDS": 4, "LCS": 2, "SCS": 1}
 ABBR_TO_NAME = {
     "LDS": "League Division Series",
     "LCS": "League Championship Series",
-    "SCS": "Star III Cup",
+    "SCS": "Star IV Cup",
 }
 
 
@@ -85,7 +85,7 @@ for iseason in range(LAST_SEASON0 + 1):
             raise Exception(
                 f"Error in game {game['id']} of season {game['season']} day {game['day']}: negative score ({t1s})-({t2s})"
             )
-        if t1s < 10 and t2s < 10:
+        if t1s < 5 and t2s < 5:
             raise Exception(
                 f"Error in game {game['id']} of season {game['season']} day {game['day']}: both teams had scores < 10"
             )

@@ -1,0 +1,531 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 6,
+                "team1Name": "Sand City Sidewinders",
+                "team2Name": "Pacific Grove Monarchists",
+                "team1Abbr": "SCS",
+                "team2Abbr": "PGM",
+                "patternName": "gastank",
+                "description": "Game 1, Monterey Bay League Division Series 1",
+                "id": "b978315d-5802-4c8f-a3d3-2e4e897fe71b",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 6,
+                "team1Name": "Santa Cruz Bananas",
+                "team2Name": "Boulder Creek Cardsharps",
+                "team1Abbr": "SCB",
+                "team2Abbr": "BCC",
+                "patternName": "denaturation",
+                "description": "Game 1, Monterey Bay League Division Series 2",
+                "id": "46835282-f0e1-4ea2-85cd-eaf740639ee3",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 6,
+                "team1Name": "Mountain View Miners",
+                "team2Name": "San Jose Avionics",
+                "team1Abbr": "MVM",
+                "team2Abbr": "SJA",
+                "patternName": "random",
+                "description": "Game 1, San Francisco Bay League Division Series 1",
+                "id": "6f1fb6f4-407b-44b8-b432-454e5f4c2521",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 6,
+                "team1Name": "Hayward Pipelines",
+                "team2Name": "Oakland Bees",
+                "team1Abbr": "HP",
+                "team2Abbr": "OB",
+                "patternName": "combs",
+                "description": "Game 1, San Francisco Bay League Division Series 2",
+                "id": "4a738808-545c-494c-afde-b350310dfd38",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 6,
+                "team1Name": "Sand City Sidewinders",
+                "team2Name": "Pacific Grove Monarchists",
+                "team1Abbr": "SCS",
+                "team2Abbr": "PGM",
+                "patternName": "precipitation",
+                "description": "Game 2, Monterey Bay League Division Series 1",
+                "id": "88bc7268-de0c-4bae-96cb-5b0f48f729bb",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 6,
+                "team1Name": "Santa Cruz Bananas",
+                "team2Name": "Boulder Creek Cardsharps",
+                "team1Abbr": "SCB",
+                "team2Abbr": "BCC",
+                "patternName": "evaporation",
+                "description": "Game 2, Monterey Bay League Division Series 2",
+                "id": "452bfaaf-16aa-4d1d-aa7c-684b1c01ea73",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 6,
+                "team1Name": "Mountain View Miners",
+                "team2Name": "San Jose Avionics",
+                "team1Abbr": "MVM",
+                "team2Abbr": "SJA",
+                "patternName": "squarestar",
+                "description": "Game 2, San Francisco Bay League Division Series 1",
+                "id": "e0455f52-9923-4c53-badc-9ff7c9200a7b",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 6,
+                "team1Name": "Hayward Pipelines",
+                "team2Name": "Oakland Bees",
+                "team1Abbr": "HP",
+                "team2Abbr": "OB",
+                "patternName": "flyingv2",
+                "description": "Game 2, San Francisco Bay League Division Series 2",
+                "id": "f83cde5a-11b5-4a09-88d0-6f2a09873adc",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 6,
+                "team1Name": "Pacific Grove Monarchists",
+                "team2Name": "Sand City Sidewinders",
+                "team1Abbr": "PGM",
+                "team2Abbr": "SCS",
+                "patternName": "precipitation",
+                "description": "Game 3, Monterey Bay League Division Series 1",
+                "id": "c7c8e705-8c7c-4b55-9cc9-780210cd0f8b",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 6,
+                "team1Name": "Boulder Creek Cardsharps",
+                "team2Name": "Santa Cruz Bananas",
+                "team1Abbr": "BCC",
+                "team2Abbr": "SCB",
+                "patternName": "dinnerplate",
+                "description": "Game 3, Monterey Bay League Division Series 2",
+                "id": "3f884016-9b94-4ba6-a6fc-4dee8e398855",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 6,
+                "team1Name": "San Jose Avionics",
+                "team2Name": "Mountain View Miners",
+                "team1Abbr": "SJA",
+                "team2Abbr": "MVM",
+                "patternName": "random",
+                "description": "Game 3, San Francisco Bay League Division Series 1",
+                "id": "c2b4b490-844b-473e-8645-a6742632e12c",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 6,
+                "team1Name": "Oakland Bees",
+                "team2Name": "Hayward Pipelines",
+                "team1Abbr": "OB",
+                "team2Abbr": "HP",
+                "patternName": "ricepudding",
+                "description": "Game 3, San Francisco Bay League Division Series 2",
+                "id": "f0df6667-dace-4f25-92cf-55512ac4e659",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 6,
+                "team1Name": "Pacific Grove Monarchists",
+                "team2Name": "Sand City Sidewinders",
+                "team1Abbr": "PGM",
+                "team2Abbr": "SCS",
+                "patternName": "newyork",
+                "description": "Game 4, Monterey Bay League Division Series 1",
+                "id": "344489e8-e37d-47d2-b838-e4663d9fe6b9",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 6,
+                "team1Name": "Boulder Creek Cardsharps",
+                "team2Name": "Santa Cruz Bananas",
+                "team1Abbr": "BCC",
+                "team2Abbr": "SCB",
+                "patternName": "denaturation",
+                "description": "Game 4, Monterey Bay League Division Series 2",
+                "id": "0a4d28d8-5e5e-403d-9f7f-d14fa7e42d94",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 6,
+                "team1Name": "San Jose Avionics",
+                "team2Name": "Mountain View Miners",
+                "team1Abbr": "SJA",
+                "team2Abbr": "MVM",
+                "patternName": "rustytank",
+                "description": "Game 4, San Francisco Bay League Division Series 1",
+                "id": "8f76c3d5-f717-4b22-b88a-17b36577e02f",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 6,
+                "team1Name": "Oakland Bees",
+                "team2Name": "Hayward Pipelines",
+                "team1Abbr": "OB",
+                "team2Abbr": "HP",
+                "patternName": "flyingv2",
+                "description": "Game 4, San Francisco Bay League Division Series 2",
+                "id": "6c0d9753-2c19-4da0-a73f-86e15174ba73",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 6,
+                "team1Name": "Sand City Sidewinders",
+                "team2Name": "Pacific Grove Monarchists",
+                "team1Abbr": "SCS",
+                "team2Abbr": "PGM",
+                "patternName": "ricepudding",
+                "description": "Game 5, Monterey Bay League Division Series 1",
+                "id": "679b9c41-459b-4dd6-97cb-ad72ed8a119b",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 6,
+                "team1Name": "Santa Cruz Bananas",
+                "team2Name": "Boulder Creek Cardsharps",
+                "team1Abbr": "SCB",
+                "team2Abbr": "BCC",
+                "patternName": "chicago",
+                "description": "Game 5, Monterey Bay League Division Series 2",
+                "id": "8e9de8a3-b97c-4b99-8cf2-e9bc0ec9c3f1",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 6,
+                "team1Name": "Mountain View Miners",
+                "team2Name": "San Jose Avionics",
+                "team1Abbr": "MVM",
+                "team2Abbr": "SJA",
+                "patternName": "dinnerplate",
+                "description": "Game 5, San Francisco Bay League Division Series 1",
+                "id": "79083b4e-b684-4419-94cc-c9394a0ada90",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 6,
+                "team1Name": "Hayward Pipelines",
+                "team2Name": "Oakland Bees",
+                "team1Abbr": "HP",
+                "team2Abbr": "OB",
+                "patternName": "squarestar",
+                "description": "Game 5, San Francisco Bay League Division Series 2",
+                "id": "073c76cd-0b7f-4ac8-b45d-972db628ec50",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "random",
+                "league": "Monterey Bay League",
+                "season": 6,
+                "description": "Game 1, Monterey Bay League Championship Series",
+                "id": "532fb966-1519-4d9d-8c0b-f65daa58df41",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "newyork",
+                "league": "San Francisco Bay League",
+                "season": 6,
+                "description": "Game 1, San Francisco Bay League Championship Series",
+                "id": "ba1f55c4-d4ce-4012-95e0-dfb9c757359a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "flyingv2",
+                "league": "Monterey Bay League",
+                "season": 6,
+                "description": "Game 2, Monterey Bay League Championship Series",
+                "id": "785abc7c-103e-4d74-8cbf-e7d4a894a25f",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "dessertplate",
+                "league": "San Francisco Bay League",
+                "season": 6,
+                "description": "Game 2, San Francisco Bay League Championship Series",
+                "id": "61877f10-ca2e-4bd5-89e7-f8ddfaa99037",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "flyingv2",
+                "league": "Monterey Bay League",
+                "season": 6,
+                "description": "Game 3, Monterey Bay League Championship Series",
+                "id": "17148f1b-c2dd-462a-8e27-3f10ec13b53f",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "kitchensink",
+                "league": "San Francisco Bay League",
+                "season": 6,
+                "description": "Game 3, San Francisco Bay League Championship Series",
+                "id": "ccaa6829-6387-459f-a3be-eaf53da03722",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "evaporation",
+                "league": "Monterey Bay League",
+                "season": 6,
+                "description": "Game 4, Monterey Bay League Championship Series",
+                "id": "0a5c5989-a963-478c-a143-720907e7238a",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "dessertplate",
+                "league": "San Francisco Bay League",
+                "season": 6,
+                "description": "Game 4, San Francisco Bay League Championship Series",
+                "id": "2c659ccb-d39e-44b3-93a3-c37f280d2b88",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "denaturation",
+                "league": "Monterey Bay League",
+                "season": 6,
+                "description": "Game 5, Monterey Bay League Championship Series",
+                "id": "2d3a4980-1c42-474a-b740-444978b87a7e",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "chicago",
+                "league": "San Francisco Bay League",
+                "season": 6,
+                "description": "Game 5, San Francisco Bay League Championship Series",
+                "id": "9aaec012-bd04-4015-83d4-92ef46378bdf",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "gastank",
+                "league": "Monterey Bay League",
+                "season": 6,
+                "description": "Game 6, Monterey Bay League Championship Series",
+                "id": "c1a65c64-ded2-41ca-bb0e-b10edf386e84",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "combs",
+                "league": "San Francisco Bay League",
+                "season": 6,
+                "description": "Game 6, San Francisco Bay League Championship Series",
+                "id": "df9c0559-7ce8-4b3b-b46f-251947a4a2a7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "precipitation",
+                "league": "Monterey Bay League",
+                "season": 6,
+                "description": "Game 7, Monterey Bay League Championship Series",
+                "id": "72d14573-4a5f-43c2-92a4-efd5ae31739c",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "kitchensink",
+                "league": "San Francisco Bay League",
+                "season": 6,
+                "description": "Game 7, San Francisco Bay League Championship Series",
+                "id": "ed228422-c214-452a-9fce-24e34be74110",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "SCS": [
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "flyingv2",
+                "description": "Game 1, Star IV Cup",
+                "season": 6,
+                "id": "da4155fa-7318-48b1-9366-805bb5195551",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "chicago",
+                "description": "Game 2, Star IV Cup",
+                "season": 6,
+                "id": "8fa827fc-23dc-4784-8a22-6059af69b11b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "random",
+                "description": "Game 3, Star IV Cup",
+                "season": 6,
+                "id": "02fbe79a-6fc6-43ae-9560-bc63da0e1267",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "rustytank",
+                "description": "Game 4, Star IV Cup",
+                "season": 6,
+                "id": "d66e284a-75bf-4150-9dc2-7f207f196ff2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "fishsoup",
+                "description": "Game 5, Star IV Cup",
+                "season": 6,
+                "id": "2a6183c6-090d-44f2-ae30-fddcc790fcc0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "gastank",
+                "description": "Game 6, Star IV Cup",
+                "season": 6,
+                "id": "bd1cfbb5-9dd9-4d41-9e5e-7fab3f38a6d0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "flyingv1",
+                "description": "Game 7, Star IV Cup",
+                "season": 6,
+                "id": "d28c280f-8d70-486a-9f29-76db475bb2b9",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
